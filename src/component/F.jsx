@@ -1,4 +1,4 @@
-function F({c,onClick,array}){
+function F({onClick,array}){
     return(
      <>
      <button onClick={onClick}>click to render the next page</button>
