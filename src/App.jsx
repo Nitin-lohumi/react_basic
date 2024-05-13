@@ -3,7 +3,6 @@ import './App.css'
 import F from './component/F'
 import Page1 from './component/Page1'
 import Page2 from './component/Page2'
-
 function App() {
   const [count, setCount] = useState(0)
   const [arr,setArr]=useState([0]);
